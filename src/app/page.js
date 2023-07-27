@@ -1,11 +1,11 @@
 import Image from "next/image";
 import logo from "../../public/logothais.png";
 import adornment from "../../public/adorno.png";
-import { Instagram } from "@/components/Instagram/instagram";
-import { InstagramThais } from "@/components/InstagramThais/instagram";
-import { Email } from "@/components/Email/email";
-import { Whatsapp } from "@/components/Whatsapp/whatsapp";
-import { Facebook } from "@/components/Facebook/facebook";
+import { Instagram } from "../components/Instagram/instagram";
+import { InstagramThais } from "../components/InstagramThais/instagram";
+import { Email } from "../components/Email/email";
+import { Whatsapp } from "../components/Whatsapp/whatsapp";
+import { Facebook } from "../components/Facebook/facebook";
 
 export default function Home() {
   return (
