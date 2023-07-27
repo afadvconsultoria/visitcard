@@ -5,7 +5,7 @@ import { Instagram } from "../components/Instagram/instagram";
 import { InstagramThais } from "../components/InstagramThais/instagram";
 import { Email } from "../components/Email/email";
 import { Whatsapp } from "../components/Whatsapp/whatsapp";
-import { Facebook } from "../components/Facebook/facebook";
+import { Facebook } from "../components/Facebook/Facebook";
 
 export default function Home() {
   return (
