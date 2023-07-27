@@ -6,7 +6,7 @@ export const Email = ({ link }) => {
     <li className="flex flex-row w-4/5 content-center ">
       <a
         className="flex items-center w-full justify-between "
-        href="mailto:leticia.barrico@hotmail.com"
+        href="mailto:alvesferreira.advconsultoria@gmail.com"
       >
         E-mail
         <SiGmail className="icon" />
